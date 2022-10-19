@@ -1,0 +1,5 @@
+Read the details of student form the studentdetails.csv
+which contains following information
+rollNo, Name, age, email and mobile number.
+
+Add one student details to studentdetails.csv
